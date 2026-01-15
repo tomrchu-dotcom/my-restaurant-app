@@ -21,7 +21,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🏙️ 台北高端餐廳選擇器")
+st.title("🏙️ 今晚吃什麼")
 st.write("2500~5000元 / 人 精選決策工具")
 st.write("---")
 
