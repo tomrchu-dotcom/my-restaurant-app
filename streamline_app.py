@@ -27,7 +27,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🏙️ 台北高端餐廳選擇器")
+st.title("🏙️ 今晚吃什麼")
 st.caption("版本 6.0 - 一次提供三間精選方案")
 st.write("---")
 
