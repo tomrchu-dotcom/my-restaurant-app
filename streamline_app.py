@@ -2,9 +2,9 @@ import streamlit as st
 import random
 import urllib.parse  # 用來處理網址編碼
 
-st.set_page_config(page_title="台北請客助手 Pro", page_icon="📍", layout="centered")
+st.set_page_config(page_title="選擇困難小幫手 Pro", page_icon="📍", layout="centered")
 
-st.title("🏙️ 台北高端餐廳決策器")
+st.title("🏙️ 台北餐廳決策器")
 st.caption("版本 2.0 - 支援 Google Maps 直接導航")
 st.write("---")
 
